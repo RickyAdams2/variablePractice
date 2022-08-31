@@ -9,3 +9,4 @@ var = bloodCount = 1500
 var = isMale = true
 var = hasPet = true
 var = isOld= false
+var sentence = `$``{firstName} his name is`; console.log(sentence);
